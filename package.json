@@ -1,0 +1,15 @@
+{
+  "name": "discordbotitr",
+  "version": "0.0.1",
+  "description": "This is a bot to get discord Nitro Free, you only need patience",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "mami",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "generate-password": "^1.5.1"
+  }
+}
